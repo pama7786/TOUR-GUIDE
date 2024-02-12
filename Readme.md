@@ -58,7 +58,7 @@ Depending on your preference, you can  check your progress by:
 
 you can clone using 
 ```sh
-git@github.com:Ken104-web/Tour-guide2.git
+git@github.com:pama7786/TOUR-GUIDE.git
 ```
 
 # Coder
